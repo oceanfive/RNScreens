@@ -1,0 +1,6 @@
+use_frameworks!
+target 'RNScreens_Tests' do
+  pod 'RNScreens', :path => '../'
+  
+  
+end
